@@ -1,0 +1,11 @@
+#!/bin/bash
+echo -e "Usage\n " > README.md
+for file in $(ls -1 .)
+do
+	if [[ "$file" =~ .sh$ ]]; then
+		echo -e "\`\`\`shell\nwget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/$file | bash\n\`\`\`" >> README.md
+	fi
+done
+git add README.md
+
+exit 0
