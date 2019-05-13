@@ -6,3 +6,6 @@ wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/composer-in
 ```shell
 wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-drupal.sh | bash
 ```
+```shell
+wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-wordpress.sh | bash
+```
