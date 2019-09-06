@@ -15,6 +15,3 @@ wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-magent
 ```shell
 wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-wordpress.sh | bash
 ```
-```shell
-wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/mailtest.sh | bash
-```
