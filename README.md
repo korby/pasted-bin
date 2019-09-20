@@ -22,3 +22,6 @@ ssh php /usr/bin/php srdb/srdb.cli.php -z -h 10.128.19.162 -u $(grep "DB_USER" .
 ```shell
 wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/wp-cli-install.sh | bash
 ```
+```shell
+wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dbseeker-install.sh | bash
+```
