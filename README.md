@@ -13,6 +13,9 @@ wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-drupal
 wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-magento.sh | bash
 ```
 ```shell
+wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-magento1.sh | bash
+```
+```shell
 wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-wordpress.sh | bash
 ```
 ```shell
@@ -25,6 +28,4 @@ wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/wp-cli-inst
 ```shell
 wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dbseeker-install.sh | bash
 ```
-```shell
-wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-magento1.sh | bash
-```
+
