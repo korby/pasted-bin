@@ -25,3 +25,6 @@ wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/wp-cli-inst
 ```shell
 wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dbseeker-install.sh | bash
 ```
+```shell
+wget -qO - https://raw.githubusercontent.com/korby/pasted-bin/master/dump-magento1.sh | bash
+```
